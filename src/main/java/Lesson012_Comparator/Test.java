@@ -54,7 +54,7 @@ public class Test {
 //    }
 //}
 //
-//class BackwardsInegerComparator implements Comparator<Integer> {
+//class BackwardsIntegerComparator implements Comparator<Integer> {
 //
 //    // [5, 0, 500, 100]
 //    @Override
